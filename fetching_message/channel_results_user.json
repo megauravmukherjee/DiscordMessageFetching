@@ -1,0 +1,804 @@
+[
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "taka80",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "When do you think I can get gpt4-32k?",
+        "timestamp": "2023-07-30T13:22:16.715000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "ath0rus",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "you can use the code interpretor plugin, uplaod an image and ask it to describe that, not tried it but it may work",
+        "timestamp": "2023-07-30T12:21:26.117000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "satanhashtag",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Like input image and chatgpt will describe  them",
+        "timestamp": "2023-07-30T11:24:35.845000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "satanhashtag",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "No eta :/",
+        "timestamp": "2023-07-30T11:24:10.650000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "satanhashtag",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Not yet",
+        "timestamp": "2023-07-30T11:23:51.047000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "ath0rus",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "what do you mean interpret images, as in how?",
+        "timestamp": "2023-07-30T10:50:00.407000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-30T10:36:04.630000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": ".pythagoras",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Any way to check the GPT4 time limit?",
+        "timestamp": "2023-07-30T10:30:12.841000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "unleasedhd",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "When will GPT-4 be able to interpret images? Or when will this function be enabled for us?",
+        "timestamp": "2023-07-30T10:19:37.432000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-30T09:05:37.780000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "ath0rus",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "it would be the ai name or company name",
+        "timestamp": "2023-07-30T07:44:26.406000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "j.j0259",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I see thanks but do you know why the watermark is called pollination .ai?",
+        "timestamp": "2023-07-30T07:43:16.625000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "eskcanta",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "You mean the identifier that it's an AI-generated image, and from that specific generator?  Seems to be a company decision.  Many, though not all image-gen AI produce some sort of watermark.",
+        "timestamp": "2023-07-30T07:30:09.167000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "PIAM",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Why openai  latest `gpt4` models  does `finish_reason` comes as `Null `( in few cases ) for `last token` in case of `streaming` ?, Ideally it should come as `stop`. Any ide why it happens?  Is it not consistent.  I am using this for Rephrasing the Answer from Context.",
+        "timestamp": "2023-07-30T07:20:59.959000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "j.j0259",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "So why does it have the copyright text on every image generated?",
+        "timestamp": "2023-07-30T07:19:32.785000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "eskcanta",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "To some extent!  This might be useful to you:  https://discord.com/channels/974519864045756446/1103305637825368144",
+        "timestamp": "2023-07-30T07:15:46.669000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "adolphusbonaparte",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "If anybody can reach openai i think the dataset of gpt4 is getting a little behind the times. I tried to make it write codes of a bullet in godot4 but somehow it makes code for godot 3",
+        "timestamp": "2023-07-30T07:15:20.174000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "j.j0259",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Can GPT4 produce images if you ask it to like images from Google images and not like DALLE?",
+        "timestamp": "2023-07-30T07:14:59.540000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "it might be also that the hardware will be significantly improved that retraining on new data will be fast and cheap",
+        "timestamp": "2023-07-30T07:13:30.254000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "eskcanta",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I expect by a few years in the future, we'll have an entirely new model of AI that was more recently trained.  They can probably combine costs by not retraining a model that may well be entirely improved upon by that date.",
+        "timestamp": "2023-07-30T07:12:13.669000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "where things change fast",
+        "timestamp": "2023-07-30T07:09:37.677000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "in IT this knowledge will be less and less usable",
+        "timestamp": "2023-07-30T07:09:30.893000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "but in 2025 - 2026?",
+        "timestamp": "2023-07-30T07:08:54.414000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "this may work now as 2021 is not that far away",
+        "timestamp": "2023-07-30T07:08:47.383000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "when you create new chat all this knowledge is gone and you have to again browse the web",
+        "timestamp": "2023-07-30T07:08:12.678000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "so web browsing is pretty much the size of the context how much you can \"inject\" to the model so that it knows new stuff (and knows it temporarily)",
+        "timestamp": "2023-07-30T07:07:17.838000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "web browsing cannot take a full page  of data due to limited size context, whereas if it was included into the model (trained on this) the model would have full picture",
+        "timestamp": "2023-07-30T07:03:21.277000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "even if you will have web browsing",
+        "timestamp": "2023-07-30T07:01:01.770000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "yes, but still let's say in 2025 if the model is cutoff to 2021 this will be less and less accurate",
+        "timestamp": "2023-07-30T07:00:45.633000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "dino.oats",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I'm aware they're not the same, but we don't have access to a model that's trained on live data. As a result, web browsing is the closest equivalent",
+        "timestamp": "2023-07-30T07:00:00.623000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "at some point the model should be updated, if we think a few years into the future",
+        "timestamp": "2023-07-30T06:59:05.904000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "web browsing to get live data is not the same as answering from trained data, this willl be always better",
+        "timestamp": "2023-07-30T06:58:30.694000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-30T06:08:04.295000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "dice_4",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "h (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b",
+        "timestamp": "2023-07-30T04:08:14.843000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "dino.oats",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-30T02:08:21.483000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "sliceofbytes",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Also think of the problem of scaling that access to XYZ # of people.. all using it, while also training/changing it constantly",
+        "timestamp": "2023-07-30T02:08:05.050000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "youraveragedev",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Like anthropic Im pretty sure used Liquid Neural Nets",
+        "timestamp": "2023-07-30T02:07:50.088000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "sliceofbytes",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "So many ways you can instrument the existing model with new data, live data etc.. It has what it needs for the most part.",
+        "timestamp": "2023-07-30T02:07:40.126000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "youraveragedev",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "i know",
+        "timestamp": "2023-07-30T02:07:28.184000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "sliceofbytes",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "It costs a ton of money, and once you have a large enough language model, injecting new data into is easier, then retraining it.",
+        "timestamp": "2023-07-30T02:07:13.751000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "dino.oats",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "it likely costs *a lot* of money",
+        "timestamp": "2023-07-30T02:06:55.804000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "_rhami",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "ahan what does it do?",
+        "timestamp": "2023-07-30T02:06:49.695000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "youraveragedev",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Like Anthropic does",
+        "timestamp": "2023-07-30T02:06:31.367000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "youraveragedev",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I dont get it, why doesn't OpenAI just keep training their models?",
+        "timestamp": "2023-07-30T02:06:25.081000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "dino.oats",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "with web browsing, you can access live data, but it's currently disabled. The **base** GPT-4 model is capped in 2021, though",
+        "timestamp": "2023-07-30T02:04:54.980000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "sliceofbytes",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "By browse the web I mean use plugin to access the web, or data you need to answer your question",
+        "timestamp": "2023-07-30T02:04:36.889000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "sliceofbytes",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Currently models already can, just browse the web, or use code-interpreter to read live data",
+        "timestamp": "2023-07-30T02:04:15.343000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "_rhami",
+        "reaction_counts": {
+            "robotshrug": 1
+        },
+        "image_url": null,
+        "content": "hmm is there any model in future that will make use of live data?",
+        "timestamp": "2023-07-30T02:03:55.403000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "ath0rus",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Yeah I use that, I was looking up a specific plugin tho",
+        "timestamp": "2023-07-30T02:03:39.169000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "dino.oats",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "yes. It's knowledge cutoff is September 2021 (same as GPT-3.5)",
+        "timestamp": "2023-07-30T02:03:05.322000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "sliceofbytes",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "If you have code-interpreter you can just ask it to ocr an image",
+        "timestamp": "2023-07-30T02:02:19.505000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "_rhami",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "was gpt-4 also trained on data uptill 2021?",
+        "timestamp": "2023-07-30T02:01:16.482000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-30T01:40:04.862000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-30T01:05:38.139000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "roblify",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "GPT-4 is great, I am using it for my Discord bot",
+        "timestamp": "2023-07-29T23:31:04.872000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "ath0rus",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "there is a plugin called ChatOCR or you can ask the code interpreter to run the image through ocr and it will do it with python for you. very handy. i use the later",
+        "timestamp": "2023-07-29T23:02:04.636000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "ath0rus",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I believe there is, let me check",
+        "timestamp": "2023-07-29T23:00:26.447000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-29T21:12:03.474000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "f.w.",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Yesnt. You can theoretically translate pictures into numbers, but this has a very limited usecase. Mostly no.",
+        "timestamp": "2023-07-29T19:54:18.538000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-29T19:10:43.045000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "mise1",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "is there any plugin that allows chatgpt to recognize images?",
+        "timestamp": "2023-07-29T19:10:42.611000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "voidsociety",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "As touched on above, you shouldnt have multiple accounts. If the 50/3hr limit isn't enough for you (I feel you, I talk w/ gpt-4 quite a bit), try using the API, if you want a good webui like ChatGPT you can check out mckaywrigley's \"chatbot-ui\" project",
+        "timestamp": "2023-07-29T18:47:46.854000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-29T17:05:37.005000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "OpenAI",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "",
+        "timestamp": "2023-07-29T16:44:02.553000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "martin_nitram",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "you could make a format for some consistency for most of the time but probably nothing more than that",
+        "timestamp": "2023-07-29T16:16:28.682000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "calin014",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "\ud83d\ude29",
+        "timestamp": "2023-07-29T16:13:29.177000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "martin_nitram",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "nope. no way to make it deterministic.",
+        "timestamp": "2023-07-29T16:11:59.158000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "calin014",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Hi. Is there a way to make the model completely non-random? It seems like setting the temperature to 0.0 still yields slightly different results when calling the api multiple times with the same input ...",
+        "timestamp": "2023-07-29T16:03:52.247000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "eskcanta",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I'm pretty sure more than one account is allowed, since there's a detailed helpfile available from OpenAI about how only two accounts can be linked to one phone number, and if a third account is needed another phone number is needed as well:\n\n\"**Can I reuse the same phone number I had before for additional accounts?**\nFor anti-fraud and abuse reasons, we do not allow you to use your number for phone verification for more than 2 unique OpenAI accounts.\n\nIf you need to create another (3rd) unique OpenAI account then you'd need to use a different phone number.\"\n\nhttps://help.openai.com/en/articles/6613520-phone-verification-faq",
+        "timestamp": "2023-07-29T15:26:32.940000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "allofandrew",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Thank you! And is getting the ig api easy to setup. Any other quick bits of info I should know before getting started on this?\n\nI did get gpt to help teach me python to parse words out of a large document, that was my first and only experiment with python ans gpt",
+        "timestamp": "2023-07-29T15:22:51.114000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "thebeloman",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Please stop spamming",
+        "timestamp": "2023-07-29T15:19:58.225000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Because speaking of rules, I am quite sure nothing is disallowing me from talking about any of this, no?",
+        "timestamp": "2023-07-29T15:18:56.056000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Sure, my bad for expressing valid concerns that have been bothering me for ages, and reacting accordingly to people who just don't read, you included.\n\nAs for what I want to accomplish? I don't know, you tell me. \ud83d\ude42",
+        "timestamp": "2023-07-29T15:18:16.355000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "satanhashtag",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Let's stay respectful  please that's the rule 1 <:Heart_Neko:1108185544262959214>",
+        "timestamp": "2023-07-29T15:18:07.477000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "kb1381",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "You are coming off as kind of a jerk here. Constantly lashing out at people who don't give answers to your liking, bitterly complaining.... Maybe take a step back, take a few deep breaths and think about what you're trying to accomplish here?",
+        "timestamp": "2023-07-29T15:16:13.308000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "while custom instructions seem like a nice enhancement what i would like to see is some type of profile switcher, where i could select new chat and choose from saved prompts and chosen plugins, not like now i need to paste the prompt to assume a role and choose plugins everytime I start a new chat",
+        "timestamp": "2023-07-29T14:54:26.012000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Because from my POV, if I \"just liked to complain\", I wouldn't have used GPT-4 ever since its release.\n\nAnd definitely would not know what the hell I am talking about, and providing actually valid points of frustration.",
+        "timestamp": "2023-07-29T14:49:17.348000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Oh? Please do elaborate in a concrete and straight forward manner.",
+        "timestamp": "2023-07-29T14:48:21.195000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "lariati",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I don't know, it sounds like you just like to complain to be honest",
+        "timestamp": "2023-07-29T14:47:36.518000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I do that too, until about a day or 2 in, the chats get EXTREMELY laggy because of their extent. Which I assume the app fixes.",
+        "timestamp": "2023-07-29T14:47:23.160000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "And yeah that's exactly what's particularly irritating and upsetting. Especially given how they seem to be almost identical to the \"system instructions\" in the API playground.\n\nWhich we have and have had full access to for ages. And it also happens to be highly likely the only saving grace feature so far, which will make the usage of GPT-4 less insufferable.\n\nGiven all of that, it almost isn't a stretch to feel and say that ClosedAI is almost mocking us at this rate, doing this on purpose.",
+        "timestamp": "2023-07-29T14:46:50.480000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "don't need an app",
+        "timestamp": "2023-07-29T14:45:44.428000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "on mobile i just use a web browser version of the chat",
+        "timestamp": "2023-07-29T14:45:38.022000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "And yet....crickets",
+        "timestamp": "2023-07-29T14:44:06.464000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "My country of Estonia is basically about as lax as it comes to \"pRiVaCy\" with this sort of crap, so by that logic we should have been the first in line with the iOS and especially the android app",
+        "timestamp": "2023-07-29T14:43:59.432000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Again, no lol.",
+        "timestamp": "2023-07-29T14:43:14.837000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "so that must be the only reason",
+        "timestamp": "2023-07-29T14:43:01.873000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "the excluded regions are regulated for privacy",
+        "timestamp": "2023-07-29T14:42:53.612000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "So it is truly a mystery on what the hell their strategy or purpose with this is.",
+        "timestamp": "2023-07-29T14:42:38.304000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "custom instructions is a different story",
+        "timestamp": "2023-07-29T14:42:35.290000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "this android app will appear no doubt",
+        "timestamp": "2023-07-29T14:42:24.475000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "No, the way iOS handles (or doesn't handle) their privacy has nothing to do with European laws.\n\nAnd again the difference must evidently not be all that much, if again the apps look identical.\n\nAnd it's already rolled out to a few European countries already with the 2nd wave of rollouts....",
+        "timestamp": "2023-07-29T14:42:05.995000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "probably because ios is a restricted system, and more safe, and regulated in terms of privacy",
+        "timestamp": "2023-07-29T14:40:43.974000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "That argument kind of instantly gets shot down by the fact that they already went through with all of this with the iOS version of the app.\n\nWhich is identical to the android one. And yet they are still being absolutely incompetent, for seemingly no reason.",
+        "timestamp": "2023-07-29T14:40:03.278000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "lariati",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "I am surprised there is not an EU based company  that is offering something that I wouldn't be able to access from America.",
+        "timestamp": "2023-07-29T14:39:56.124000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Next week comes. \"Oh here it is available for a very select few countries only kekw\", with 0 info about when others will get it",
+        "timestamp": "2023-07-29T14:37:51.294000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "yes, they exclude GDPR regions...",
+        "timestamp": "2023-07-29T14:37:39.354000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "Their first announcement was \"release next week\"",
+        "timestamp": "2023-07-29T14:37:25.880000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "hugetesticles",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "This literally also just happened with the android app",
+        "timestamp": "2023-07-29T14:37:15.803000+00:00"
+    },
+    {
+        "channel_name": "gpt-4-discussions",
+        "author_username": "radoslaw",
+        "reaction_counts": {},
+        "image_url": null,
+        "content": "to that i agree",
+        "timestamp": "2023-07-29T14:36:39.579000+00:00"
+    }
+]
